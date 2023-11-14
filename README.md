@@ -1,6 +1,4 @@
-# Ayudantia-Hadoop
-joaquin.fernandez1@mail.udp.cl
-
+# Hadoop
 Para levantar topologia de contenedores:
 ```sh
 docker compose up --build

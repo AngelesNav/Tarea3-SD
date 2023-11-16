@@ -1,0 +1,108 @@
+Oracle Corporation es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede central en la localidad de Austin, capital del estado de Texas. Según la clasificación correspondiente al año 2006, ocupa el primer lugar en la categoría de las bases de datos y el séptimo lugar a nivel mundial de las compañías de tecnologías de la información.[4]​ La tecnología Oracle se encuentra en muchas industrias del mundo y en las oficinas de 98 de las 100 empresas Fortune 100.
+Oracle (Nasdaq: ORCL) es la primera compañía de software de estereotipos que desarrolla e implementa aplicaciones para empresas cien por ciento activado por Internet a través de toda su línea de productos: base de datos, aplicaciones comerciales y herramientas de desarrollo de aplicaciones y soporte de decisiones. Oracle es el proveedor mundial de software para administración de información a lo largo de todo el mundo, muy por delante de la segunda de su segmento, Software AG.[5]​
+
+
+== Historia ==
+Larry Ellison, Ed Oates y Bob Miner fundan en 1977 una empresa de consultoría llamada Software Development Laboratories (SDL), y tiempo después obtienen un contrato con la CIA para diseñar un sistema especial de bases de datos con código clave "Oracle".[6]​ Ellison y Miner habían leído un artículo en la revista IBM Journal of Research and Development donde se describía una versión preliminar del lenguaje SQL, basado en el artículo de E. F. Codd donde propone el modelo relacional: "A Relational Model of Data for Large Shared Data Banks".[7]​ IBM había autorizado publicar el trabajo de Codd, luego de intentar fallidamente hacer un RDBMS IBM System R, que también se basaba en las teorías de Codd. IBM se negó a compartir código del sistema R. La versión inicial de Oracle fue la 2; no hubo Oracle 1. El número de versión pretendía dar a entender que ya se habían corregido todos los errores que pudieran existir en una versión anterior.
+Los socios fundaron Oracle colocando US$1400 de su propio dinero, bajo el nombre de Laboratorios de Desarrollo de Software (SDL). En 1979, la empresa pasó a denominarse Relational Software Inc., posteriormente rebautizada como Oracle después del éxito del producto insignia de base de datos Oracle. El nombre lo tomó de un proyecto de Inteligencia, al que le habían vendido la base de datos. 
+En 1982 y buscando la coherencia con sus objetivos empresariales, SDL cambia de nombre a Relational Software Incorporated (RSI). La compañía busca tener un producto que fuese compatible con el SQL de IBM, y además enfocarse en un mercado de las minicomputadoras, abarcando así un segmento que en esos momentos a IBM no le interesaba.[8]​
+En 1984 RSI cambia su nombre a Oracle Systems Corporation, y poco después se acorta al actual "Oracle Corporation". El siguiente año empieza a comercializar Oracle V3, agregando el manejo de transacciones a través de las instrucciones COMMIT y ROLLBACK. De hecho, el producto es recodificado en C lo que permite expandir las plataformas de ejecución para incluir los entornos Unix, cuando hasta aquí era sólo sobre Digital VAX/VMS.
+En 1985, Oracle V4 soporta consistencia de lectura y en 1986 Oracle V5 empieza a soportar el modelo cliente/servidor para unirse al auge de la aparición de las redes. Además, se soporta la ejecución de queries distribuidos. El mismo año 1986 fue cuando Oracle comenzó a cotizar en el índice NASDAQ de la bolsa de Nueva York (Estados Unidos)
+En 1989 lanzan al mercado el ERP de Oracle, conocido como Oracle Financials®, junto a la versión 6 del motor, que agrega un lenguaje procedural (Pl/Sql), bloqueo a nivel de fila y las posibilidades de hacer respaldos sin la necesidad de terminar los procesos involucrados.
+En 1990, en el único trimestre donde perdió dinero, Oracle despidió alrededor del 10% (alrededor de 400 personas) de sus trabajadores debido a una falta de coincidencia entre el efectivo y los ingresos. Esta crisis llegó a causa de «la estrategia de comercialización de Oracle», en la que se instó a la gente de ventas a inducir a clientes potenciales para que compraran la mayor cantidad posible de programas a la vez. El personal de ventas se reserva el valor de las ventas de licencias futuras en el actual trimestre, lo que aumenta sus bonos. Esto se convirtió en un problema cuando las ventas futuras, posteriormente no se materializaron. Oracle finalmente tuvo que replantear sus ganancias en dos ocasiones, y también resolver las demandas de acción de la corte de clase que surgieron del hecho de haber exagerado sus ganancias. Ellison, diría más tarde que Oracle había cometido «un error de negocio increíble».
+Aunque IBM dominaba el mercado de mainframes, con las bases de datos jerárquicas y en red, (SQL/DS), nunca comercializó sus RDBMS (System/R) y se demoró varios años en entrar en el mercado de bases de datos relacionales en UNIX y sistemas operativos Windows. Esto dejó la puerta abierta para Sybase, Oracle e Informix –y, eventualmente, Microsoft– para dominar sistemas de gama media y microcomputadoras. Oracle fue el primer RDBMS comercial.
+Alrededor de este tiempo, Oracle cayó detrás de Sybase. En el período 1990-1993, Sybase fue la compañía de gestión de bases de datos relacional con mayor crecimiento y proveedor de la industria de la querida base de datos, pero pronto fue víctima de su manía de las fusiones. En 1993 la fusión de Sybase con Powersoft resultó en una pérdida de concentración en su tecnología de base de datos central. En 1993, Sybase vendió los derechos de su software de base de datos que ejecutan bajo el sistema operativo Windows de Microsoft Corporation, que ahora se comercializa bajo el nombre de SQL Server.
+En 1992, para convertirse en una base de datos completa, aparece Oracle V7h, donde la "h" viene de "datawareHouse", aunque lo más significativo es el soporte de la integridad referencial, el almacenamiento y ejecución de programas escritos en Pl/Sql dentro del motor y la definición de triggers de base de datos.
+En 1994, Informix Software se convirtió en el rival más importante de Oracle. La guerra intensa entre el director ejecutivo de Informix Phil White y Ellison fue noticia habitual de Silicon Valley durante tres años. En abril de 1997, Informix anunció una estimación de beneficios importante de ingresos y ganancias de las regularizaciones. Phil White finalmente terminó en la cárcel. Informix fue absorbida por IBM en el 2000. 
+En 1997, siendo Internet ya una realidad y con los nuevos paradigmas de programación empezando a aparecer para intentar desplazar a los paradigmas imperativos, Oracle V8 comienza a soportar desarrollos orientados a objetos y el almacenamiento y ejecución de contenido multimedia, y en 1999 sale a la luz Oracle 8i para estar a tono con los requerimientos de la Internet, de donde se derive la "i" del nombre. Además, el motor incorpora una Máquina Virtual Java (Java Virtual Machine) interna para soportar el almacenamiento y ejecución de código Java dentro del motor.
+
+
+=== Siglo XXI ===
+Una vez que Informix y Sybase fueron derrotados, Oracle disfrutó de años de dominio de la industria hasta el lugar de Microsoft SQL Server a finales de los 90 y la adquisición de IBM Informix Software en 2001 para complementar su base de datos DB2. Hoy en día la principal competencia de Oracle para las licencias de nueva base de datos en UNIX, Linux y sistemas operativos de Windows está con DB2 de IBM, y con Microsoft SQL Server -cuya base instalada es mayormente en Windows aunque también existe una versión para Linux desde el año 2017-[13]​. DB2 de IBM sigue dominando el mercado de bases de datos de mainframe.
+En 2001, Oracle 9i trae más de 400 nuevas características incluyendo la habilidad de manipular documentos XML, opciones de alta disponibilidad, bases de datos en clúster. Un avance importante se hace sobre la definición de bases de datos virtuales (VPD), autenticación vía LDAP y en la autoadministración de la base de datos.
+En 2003, Oracle Corporation lanza Oracle 10g, donde la "g" viene de "Grid", incorporando el manejo y administración de bases de datos Grid Computing, un conjunto de bases de datos cuya administración de espacio, recursos y servicios pueden administrarse como si fueran una sola.
+En 2005, dos años después, la compañía adquiere PeopleSoft, una empresa de RRHH y aplicaciones ERP.
+En 2007, Oracle anunció la última versión de su base de datos en la ciudad de Nueva York, la denomina Oracle 11g, el siguiente paso en la historia de la innovación tecnológica de Oracle Corporation.
+En abril de 2009, Oracle anunció su intención de comprar Sun Microsystems después de un tira y afloja con IBM y Hewlett-Packard. La Unión Europea aprobó la adquisición de Sun Microsystems por parte de Oracle el 21 de enero de 2010 y acordó que «la adquisición de Sun por Oracle tiene el potencial de revitalizar los activos importantes y crear productos nuevos e innovadores».
+En septiembre de 2014, su fundador, Larry Ellison, se retira de la dirección general de la compañía quedando como presidente ejecutivo de la Junta Directiva y director general de Tecnología.[14]​ En su reemplazo fueron nombrados como directores generales Safra Catz y Mark Hurd.[15]​
+En 2018 la compañía anunció el lanzamiento de Oracle Autonomous Database, considera la primera base de datos autónoma.
+
+
+== Oficinas ==
+Oracle Corporation tiene su sede central en Austin, Texas. Antiguamente poseía un complejo en la península de San Francisco en el área de Redwood Shores de Redwood City, adyacente a Belmont y cerca del aeropuerto de San Carlos (código de aeropuerto IATA: SQL).
+Oracle HQ se encuentra en el antiguo emplazamiento de Marine World / Africa USA, que se trasladó de Redwood Shores a Vallejo en 1986. Oracle Corporation alquiló originalmente dos edificios en el emplazamiento, trasladando sus departamentos de finanzas y administración de la antigua sede de la corporación en Davis Drive, Belmont, California. Finalmente, Oracle compró el complejo y construyó otros cuatro edificios principales.
+Los distintivos edificios de Oracle Parkway, apodados la Ciudad Esmeralda,[16]​ sirvieron de escenario para la sede futurista de la compañía ficticia "NorthAm Robotics" en la película de Robin Williams Bicentennial Man (1999). El campus representó la sede de Cyberdyne Systems en la película Terminator Genisys (2015).[17]​ 
+{{| image =|1200px|Antigua sede de la corporación en Austin, Texes.}}
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Casos Legales ==
+
+
+=== Adquisición de Sun Microsystems ===
+El 27 de enero de 2010, Oracle anunció que había completado su adquisición de Sun Microsystems, valorada en más de $ 7 mil millones, una medida que transformó a Oracle de una mera compañía de software a un fabricante de software y hardware. La adquisición se retrasó varios meses por parte de la Comisión Europea debido a preocupaciones sobre MySQL, pero al final fue aprobada incondicionalmente. Esta adquisición fue importante para algunos en la comunidad de código abierto y también para algunas otras empresas, ya que temían que Oracle pudiera terminar con el soporte tradicional de Sun a los proyectos de código abierto. Desde la adquisición, Oracle ha descontinuado OpenSolaris y StarOffice, y demandó a Google por sus patentes Java recientemente adquiridas de Sun.[18]​ En septiembre de 2011, los cables de la embajada del Departamento de Estado de EE. UU. Se filtraron a WikiLeaks.[19]​ Un cable reveló que Estados Unidos presionó a la UE. para permitir que Oracle adquiera Sun.[20]​
+
+
+=== Demanda contra Google ===
+Oracle, compró el lenguaje de programación de computadoras Java cuando adquirió Sun Microsystems en enero de 2010.[21]​ El software Java incluye conjuntos de código de software predesarrollado para realizar tareas comunes de manera consistente entre programas y aplicaciones. El código desarrollado previamente está organizado en "paquetes" separados, cada uno de los cuales contiene un conjunto de "clases". Cada clase contiene numerosos métodos, que instruyen a un programa o aplicación a realizar una determinada tarea. Los desarrolladores de software "se acostumbraron a usar las designaciones de Java a nivel de paquete, clase y método". Oracle y Google (el demandado) intentaron negociar un acuerdo para que Oracle otorgara la licencia de Java a Google, lo que le habría permitido a Google usar Java en el desarrollo de programas para dispositivos móviles que utilizan el sistema operativo Android. Sin embargo, las dos empresas nunca llegaron a un acuerdo. Después de que fracasaron las negociaciones, Google creó su propia plataforma de programación, que estaba basada en Java, y contenía una combinación de 37 paquetes Java copiados y nuevos paquetes desarrollados por Google.[22]​
+En 2010, Oracle demandó a Google por infracción de los derechos de autor por el uso de los 37 paquetes de Java.[21]​ El caso se tramitó en el Tribunal de Distrito de los Estados Unidos para el Distrito Norte de California y se asignó al juez William H. Alsup (quien aprendió por sí mismo cómo codificar computadoras). 
+En la demanda, Oracle solicitó entre $ 1.4 mil millones y $ 6.1 mil millones. En junio de 2011, el juez tuvo que obligar a Google mediante una orden judicial a hacer públicos los detalles sobre la reclamación de Oracle por daños y perjuicios. Al final del primer juicio con jurado (la disputa legal eventualmente pasaría a otro juicio), los argumentos de los abogados de Oracle se centraron en una función de Java llamada "rangeCheck".[21]​
+
+
+=== OpenOffice.org ===
+Varios desarrolladores de OpenOffice.org formaron The Document Foundation y recibieron el respaldo de Google, Novell, Red Hat y Canonical, así como algunos otros, pero no pudieron lograr que Oracle donara la marca OpenOffice.org, lo que provocó una bifurcación en el desarrollo de OpenOffice.org con la fundación ahora desarrollando y promocionando LibreOffice. Oracle no expresó interés en patrocinar el nuevo proyecto y pidió a los desarrolladores de OpenOffice.org que iniciaron el proyecto que renunciaran a la empresa debido a "conflictos de intereses". El 1 de noviembre de 2010, 33 de los desarrolladores de OpenOffice.org entregaron sus cartas de renuncia. El 1 de junio de 2011, Oracle donó OpenOffice.org a Apache Software Foundation.[23]​
+
+
+=== Demanda de HP y Oracle ===
+El 15 de junio de 2011, HP presentó una demanda en el Tribunal Superior de California en Santa Clara, alegando que Oracle había incumplido un acuerdo para respaldar el microprocesador Itanium utilizado en los servidores empresariales de gama alta de HP. Oracle calificó la demanda como "un abuso del proceso judicial" y dijo que si hubiera sabido que Léo Apotheker de SAP estaba a punto de ser contratado como nuevo CEO de HP, no se habría implicado ningún apoyo para los servidores Itanium de HP.[24]​ El 1 de agosto de 2012, un juez de California dijo en un fallo provisional que Oracle debe continuar portando su software sin costo alguno hasta que HP descontinúe sus ventas de servidores basados en Itanium. HP recibió $ 3 mil millones en daños contra Oracle en 2016. HP argumentó que la cancelación de soporte de Oracle dañó la marca de servidor Itanium de HP. Oracle ha anunciado que apelará tanto la decisión como los daños.[25]​
+
+
+=== Veto de licitación comercial de GSA ===
+El 20 de abril de 2012, la Administración de Servicios Generales de Estados Unidos prohibió a Oracle en el portal más popular para presentar ofertas en contratos de GSA por razones no reveladas. Oracle ha utilizado anteriormente este portal por alrededor de cuatrocientos millones de dólares al año en ingresos. Oracle resolvió previamente una demanda presentada bajo la Ley de Reclamaciones Falsas, que acusó a la compañía de sobrefacturar al gobierno de los Estados Unidos entre 1998 y 2006. El acuerdo de 2011 obligó a Oracle a pagar 199,5 millones de dólares a la Administración de Servicios Generales.[26]​
+
+
+=== Operaciones de TikTok ===
+El 13 de septiembre de 2020, Bloomberg News informó que Oracle ganó una guerra de ofertas con otras empresas con sede en EE. UU. Para hacerse cargo de las operaciones de la empresa de redes sociales TikTok en los Estados Unidos tras la presión de la empresa para que la Administración Trump lo cierre por la fuerza. TikTok describió a Oracle como un "socio tecnológico de confianza", lo que sugiere que el acuerdo puede no estar tan estructurado como una venta directa.[27]​[28]​
+
+
+== Patrocinio ==
+El 20 de octubre de 2006, los Golden State Warriors y Oracle Corporation anunciaron un acuerdo de 10 años en el que el Oakland Arena se conocería como Oracle Arena. 
+El equipo de vela de Larry Ellison compite como Oracle Team USA. El equipo ganó la America's Cup dos veces, en 2010 (como BMW Oracle Racing) y en 2013, a pesar de haber sido penalizado por hacer trampa. 
+El biplano de acrobacias "Challenger II" de Sean Tucker está patrocinado por Oracle y se presenta con frecuencia en espectáculos aéreos en los EE. UU. 
+El 9 de enero de 2019, ESPN informó que los Gigantes de San Francisco celebraron un acuerdo por 20 años para cambiar el nombre de su estadio a Oracle Park.[29]​
+El 25 de marzo de 2021, Red Bull Racing y Oracle Corporation anunciaron un acuerdo estratégico multi-anual para aparecer en el monoplaza, mientras que la escudería aprovecha los sistemas tecnológicos.[30]​ El 9 de febrero de 2022 durante la presentación del RB18 se anunció que Oracle Corporation pasa a ser patrocinador principal, renombrando la escudería a "Oracle Red Bull Racing" en un acuerdo por 5 años.[31]​
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+
+Sitio web oficial

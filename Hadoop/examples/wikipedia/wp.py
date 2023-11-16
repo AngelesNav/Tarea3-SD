@@ -4,12 +4,11 @@ import json
 entradas = [
     "Apple", "Samsung", "Google", "Microsoft", "Amazon",
     "Coca-Cola", "IBM", "Toyota", "McDonald's", "Disney",
-    "Nike", "Adidas", "Pepsi", "Sony", "BMW",
-    "Mercedes-Benz", "Volkswagen", "Ford", "General Electric", "Louis Vuitton",
-    "Nestlé", "Intel", "Honda", "Sony Ericsson", "Canon Inc",
-    "Siemens AG", "Panasonic", "Dell", "HP", "Oracle"
+    "Nike", "Adidas", "Pepsi", "Panasonic", "BMW",
+    "Mercedes-Benz", "Volkswagen", "Ford", "Tesla", "Prada",
+    "Nestlé", "Intel", "Honda", "LG", "Nikon",
+    "Bosch", "Philips", "Acer", "Asus", "Salesforce"
 ]
-
 url = "https://es.wikipedia.org/w/api.php" 
 i = 1
 

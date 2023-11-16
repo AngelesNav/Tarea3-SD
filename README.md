@@ -3,8 +3,8 @@ Para levantar topologia de contenedores:
 ```sh
 docker compose up --build
 ---
-## *Utilizar Hadoop*
-
+## **Utilizar Hadoop**
+```sh
 **[0]** Se accede al contenedor que contiene el servicio de hadoop:
 ```sh
 docker exec -it hadoop bash
@@ -37,3 +37,7 @@ Se puede validar que efectivamente se hayan procesado dichos archivos contenidos
 hdfs dfs -ls input
 ```
 Con eso ya deberían de tener un seguimiento de los arhicovs traspasados al directorio input dentro administrador de archivos de Hadoop.
+```
+Para eliminar todos los archivs .txt ingresados a Hadoop, con el siguiente comando:
+```sh
+hdfs dfs -rm input/*.txt

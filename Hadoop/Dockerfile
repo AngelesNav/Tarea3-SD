@@ -61,5 +61,6 @@ EXPOSE 50070 50075 50010 50020 50090 8020 9000 9864 9870 10020 19888 8088 8030 8
 # Configuración para prevenir la iniciación automática de YARN
 ENV YARNSTART=0
 
+RUN sudo chmod +x /usr/local/bin/docker-entrypoint.sh
 # Configuración del ENTRYPOINT con el script de entrada
 ENTRYPOINT ["/usr/local/bin/docker-entrypoint.sh"]

@@ -6,7 +6,7 @@ docker compose up --build
 
 ---
 ## **Utilizar Hadoop**
-```sh
+
 **[0]** Se accede al contenedor que contiene el servicio de hadoop:
 ```sh
 docker exec -it hadoop bash

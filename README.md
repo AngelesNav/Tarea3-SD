@@ -2,6 +2,8 @@
 Para levantar topologia de contenedores:
 ```sh
 docker compose up --build
+```
+
 ---
 ## **Utilizar Hadoop**
 ```sh

@@ -37,9 +37,11 @@ hdfs dfs -put carpeta2/*.txt input
 Se puede validar que efectivamente se hayan procesado dichos archivos contenidos en los directorios con el siguiente comando:
 ```sh
 hdfs dfs -ls input
+
 ```
-Con eso ya deberían de tener un seguimiento de los arhicovs traspasados al directorio input dentro administrador de archivos de Hadoop.
-```
-Para eliminar todos los archivs .txt ingresados a Hadoop, con el siguiente comando:
+## Para eliminar todos los archivs .txt ingresados a Hadoop, con el siguiente comando
 ```sh
 hdfs dfs -rm input/*.txt
+```
+## Cómo probar el código que hice
+	cat data.txt | python mapper.py | sort -k1,1 | python reducer.py

@@ -1,47 +1,39 @@
-# Mapper function
-def mapper(line):
-    words = line.strip().split()
-    for word in words:
-        print(f"{word.lower()}\t1")
+#!/bin/bash
 
-# Reducer function
-def reducer(word, counts):
-    total = sum(counts)
-    print(f"{word}\t{total}")
+# Definir las carpetas de entrada
+INPUT_FOLDER1="carpeta1"
+INPUT_FOLDER2="carpeta2"
 
-# Simulación de entrada
-input_data = [
-    "El MapReduce es un modelo de programación",
-    "MapReduce se utiliza para procesar grandes conjuntos de datos",
-    "El modelo MapReduce consiste en funciones de mapeo y reducción"
-]
+# Definir el directorio de salida
+OUTPUT_DIR="output"
+mkdir -p $OUTPUT_DIR
 
-# Fase de mapeo (se ejecuta en nodos esclavos)
-for line in input_data:
-    mapper_output = line.strip().split('\t')
-    if len(mapper_output) == 2:
-        word, count = mapper_output
-        print(f"{word}\t{count}")
+# Archivo para almacenar todos los resultados
+RESULT_FILE="resultados.txt"
 
-# Fase de reducción (se ejecuta en nodos esclavos)
-current_word = None
-current_count = 0
-counts = []
+# Limpiar o crear el archivo de resultados
+> $RESULT_FILE
 
-for line in sorted(input_data):  # Ordenar para agrupar palabras
-    reducer_output = line.strip().split('\t')
-    if len(reducer_output) == 2:
-        word, count = reducer_output
-        count = int(count)
+# Ejecutar el script mapper en todos los archivos de la carpeta 1
+for file in $INPUT_FOLDER1/*.txt; do
+    filename=$(basename -- "$file")
+    echo "Procesando archivo: $filename"
+    cat $file | python mapper.py > $OUTPUT_DIR/$filename.mapped
+    cat $OUTPUT_DIR/$filename.mapped >> $RESULT_FILE
+done
 
-        if current_word == word:
-            current_count += count
-        else:
-            if current_word:
-                reducer(current_word, counts)
-            current_word = word
-            current_count = count
-            counts = [count]
+# Ejecutar el script mapper en todos los archivos de la carpeta 2
+for file in $INPUT_FOLDER2/*.txt; do
+    filename=$(basename -- "$file")
+    echo "Procesando archivo: $filename"
+    cat $file | python mapper.py > $OUTPUT_DIR/$filename.mapped
+    cat $OUTPUT_DIR/$filename.mapped >> $RESULT_FILE
+done
+# Concatenar y ordenar todos los archivos mapeados
+cat $OUTPUT_DIR/*.mapped | sort > $OUTPUT_DIR/all_mapped.txt
 
-if current_word:  # Agregar una verificación para la última palabra
-    reducer(current_word, counts)
+# Ejecutar el script reducer en el archivo concatenado y ordenado
+echo "Procesando resultados"
+cat $OUTPUT_DIR/all_mapped.txt | python reducer.py >> $RESULT_FILE
+
+echo "Resultados guardados en $RESULT_FILE"

@@ -1,19 +1,16 @@
-#!/usr/bin/env python
-# -*-coding:utf-8 -*
 import sys
+import re
+import os
 
+# Lista de caracteres especiales a excluir
+exclude_chars = set([",", ".", '"', "'", "(", ")", "\\", ";", ":", "$1", "$", "&"])
 
 for line in sys.stdin:
-    docs = line.lower()
-    arr = []
+    # Eliminar caracteres numéricos y los especificados en la lista
+    line = re.sub(r'[^a-zA-ZñÑ\s]|[\d]', '', line.strip())
+    words = line.split()
 
-    for char in [",", ".", '"', "'", "(", ")", "\\", ";", ":", "$1", "$", "&"]:
-        docs = docs.replace(char, '')
-
-    name, docs = docs.split('<splittername>')
-    
-    for word in docs.split():
-        arr.append('{}\t{}\t{}'.format(word, name, 1))
-
-    for i in sorted(arr):
-        print(i)
+    for word in words:
+        # Excluir palabras vacías y caracteres especiales
+        if word and word not in exclude_chars:
+            print('{}\t{}'.format(word, 1))

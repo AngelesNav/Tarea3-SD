@@ -43,5 +43,7 @@ hdfs dfs -ls input
 ```sh
 hdfs dfs -rm input/*.txt
 ```
-## Cómo probar el código que hice
-	cat data.txt | python mapper.py | sort -k1,1 | python reducer.py
+## Cómo probar el código de WordCount simple
+Dentro de bash, ejecutar
+```sh
+bash contador.py

@@ -5,9 +5,9 @@ entradas = [
     "Apple", "Samsung", "Google", "Microsoft", "Amazon",
     "Coca-Cola", "IBM", "Toyota", "McDonald's", "Disney",
     "Nike", "Adidas", "Pepsi", "Panasonic", "BMW",
-    "Mercedes-Benz", "Volkswagen", "Ford", "Tesla", "Prada",
+    "Mercedes-Benz", "Volkswagen", "Ford", "Chevrolet", "Prada",
     "Nestlé", "Intel", "Honda", "LG", "Nikon",
-    "Bosch", "Philips", "Acer", "Asus", "Salesforce"
+    "JBL", "Philips", "Lenovo", "Asus", "Salesforce"
 ]
 url = "https://es.wikipedia.org/w/api.php" 
 i = 1

@@ -26,7 +26,7 @@ hdfs dfs -mkdir input
 ```
 **[2]** Damos los permisos tantos del usuario y del directorio
 ```sh
-sudo chown -R hduser 
+sudo chown -R hduser .
 ```
 **[3]** Cargamos los txt extraidos de wikipedia a hadoop mediante los siguientes comandos, primero accedemos a la carpeta donde estan alojados y se ejecuta hdfs.
 ```sh

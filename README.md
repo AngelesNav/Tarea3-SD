@@ -46,4 +46,4 @@ hdfs dfs -rm input/*.txt
 ## Cómo probar el código de WordCount simple
 Dentro de bash, ejecutar
 ```sh
-bash contador.py
+bash contador.sh

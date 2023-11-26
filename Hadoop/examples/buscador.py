@@ -36,7 +36,7 @@ diccionario_documentos = {i+1: f'https://es.wikipedia.org/wiki/{entrada}' for i,
 
 # Ejemplo de uso
 consulta_usuario = input("Ingrese la palabra a buscar: ")
-archivo_a_buscar = 'Inverted-Indexing/salida.txt'  # Reemplaza 'archivo.txt' con el nombre de tu archivo
+archivo_a_buscar = '/workspaces/Tarea3-SD/Hadoop/examples/outhadoop/part-00000'  # Reemplaza 'archivo.txt' con el nombre de tu archivo
 
 # Realizamos la búsqueda
 resultados = buscar_en_archivo(consulta_usuario, archivo_a_buscar, diccionario_documentos)

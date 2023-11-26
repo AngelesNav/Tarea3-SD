@@ -47,3 +47,13 @@ hdfs dfs -rm input/*.txt
 Dentro de bash, ejecutar
 ```sh
 bash contador.sh
+```
+## Cómo probar el código de WordCount Inverted Indexing
+Dentro de bash, ejecutar
+```sh
+----------
+```
+## Cómo probar el Buscador
+Dentro de la carpeta examples, ejecutar
+```sh
+python3 buscador.py

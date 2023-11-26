@@ -51,7 +51,10 @@ bash contador.sh
 ## Cómo probar el código de WordCount Inverted Indexing
 Dentro de bash, ejecutar
 ```sh
-----------
+mapred streaming -files mapper.py,reducer.py -input /user/hduser/input/*.txt -output hduser/outhadoop/ -mapper ./mapper.py -reducer ./reducer.py
+```
+```sh
+hdfs dfs -get /user/hduser/hduser/outhadoop/ /home/hduser/examples
 ```
 ## Cómo probar el Buscador
 Dentro de la carpeta examples, ejecutar

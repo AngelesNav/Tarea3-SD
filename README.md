@@ -51,6 +51,7 @@ bash contador.sh
 ## Cómo probar el código de WordCount Inverted Indexing
 Dentro de bash, ejecutar
 ```sh
+cd indice-invertido/
 mapred streaming -files mapper.py,reducer.py -input /user/hduser/input/*.txt -output hduser/outhadoop/ -mapper ./mapper.py -reducer ./reducer.py
 ```
 ```sh

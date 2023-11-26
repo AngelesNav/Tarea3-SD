@@ -11,4 +11,5 @@ for line in sys.stdin:
     for word in words:
         # Excluir palabras vacías
         if word:
+            word_lower = word.lower()  # Convertir la palabra a minúsculas
             print('{}\t{}\t{}'.format(filename, word, 1))

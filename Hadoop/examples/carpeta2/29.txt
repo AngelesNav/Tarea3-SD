@@ -1,0 +1,93 @@
+ASUSTeK Computer, Inc. (en chino: 華碩電腦股份有限公司), conocida simplemente como ASUS —pronunciado habitualmente con fonética inglesa «ei-sus»—, es una corporación multinacional de hardware, electrónica y robótica[2]​ con sede en Taipéi, Taiwán, en el Distrito de Beitou. Sus productos incluyen la producción de tarjetas madre (placas base), tarjetas gráficas, dispositivos ópticos, productos multimedia, periféricos, computadoras portátiles, netbooks, de sobremesa, servidores, estaciones de trabajo, tablets, teléfonos móviles, equipos de red, monitores, proyectores, y soluciones de refrigeración para computadoras. La compañía también es un fabricante OEM que produce componentes para otras compañías.
+Es el cuarto mayor proveedor mundial de PC en 2015.[3]​ Asus aparece en Rankings como BusinessWeek, "InfoTech 100" y "Asia’s Top 10 IT Companies", y ocupó el primer lugar en la categoría de IT Hardware de la encuesta "Top 10 Global Brands" de Taiwán con un valor total de marca de 1300 millones de dólares.[4]​
+Sus acciones tienen una cotización primaria en la Bolsa de Valores de Taiwán bajo el código ticker 2357[5]​ y una lista secundaria en la Bolsa de Valores de Londres bajo un código ASKD.
+Dentro de sus principales competidores tiene a Apple, Dell, HP, Lenovo, Acer, MSI, Razer, Alienware, etc.
+
+
+== Nombre ==
+La compañía se conoce generalmente como "ASUS" (/eɪˈsuːs/[6]​) o Huáshuò en Chino (en chino tradicional, 華碩; en chino simplificado, 华硕, Literalmente "Eminencia de/por los chinos (personas)"). Según el director de ventas de Asus, Alexander Kim, el nombre proviene en la acepción inglesa Pegasus, que hace referencia al caballo alado de la mitología griega.[7]​[8]​ Se utilizaron solamente las últimas cuatro letras de la palabra para dar al nombre resultante una posición preferencial en listas ordenadas alfabéticamente.[9]​
+El eslogan de la compañía antiguamente era "Rock Solid, Heart Touching" (Muy sólido~"resistente", Toca el Corazón), luego "Inspiring Innovation, Persistent Perfection" (Innovación Inspiradora, Perfección Persistente). Y actualmente es "In Search of Incredible." "En Busca de lo Increíble."[10]​
+
+
+== Historia ==
+Asus fue fundada en Taipéi en 1989[11]​ por T.H. Tung, Hu Tao, Lisa y M.T. Xia,[12]​ Los cuatro que habían trabajado previamente en Acer como ingenieros en hardware. Hasta ese entonces, Taiwán aún no había establecido una posición de liderazgo en el negocio de hardware para computadora. Intel Corporation suministraba nuevos procesadores a empresas más establecidas, como IBM primero, y las empresas taiwanesas tendrían que esperar aproximadamente seis meses después de que IBM recibiera su prototipo de ingeniería.
+A finales de septiembre y principios de octubre de 2003, Asus entra en el mercado de los teléfonos móviles con el modelo J100.[13]​
+En 2004, Asus anunció que vendió más tarjetas madre que la suma de las ventas de las otras tres compañías líderes del sector,[14]​ alcanzando los 30 millones. Estas cifras, que incluyen contratos con firmas como Gigabyte Technology y MSI, se contabilizaban en 104,86 millones de unidades. Asus aportó cerca de 52 millones de unidades, seguida por ECS con 20 millones, MSI con 18 millones y Gigabyte con 16,6 millones.
+En septiembre de 2005, Asus lanzó la primera Tarjeta aceleradora PhysX.[15]​ (La cual fue muy esperada para mayo de 2006.[16]​ En diciembre de 2005 ASUS entró en el mercado de TV LCD con el modelo TLW32001, solo disponible inicialmente en el mercado de Taiwán.[17]​[18]​ En enero de 2006, ASUS anunció que cooperaría con Lamborghini para desarrollar la serie VX.[19]​
+El 9 de marzo de 2006, Asus fue confirmado como uno de los fabricantes de los primeros modelos de Microsoft Origami, junto con Samsung Electronics y Founder Technology.[20]​
+El 8 de agosto de 2006, Asus anunció una empresa conjunta con Gigabyte Technology.[21]​
+El 5 de junio de 2007, Asus anunció el lanzamiento de Eee PC en COMPUTEX Taipei.
+El 9 de septiembre de 2007, Asus indicó su apoyo al Blu-ray, anunciando el lanzamiento de una unidad Grabadora BD-ROM/DVD para PC, BC-1205PT.[22]​ Posteriormente, ASUS lanzó varios portátiles basados en Blu-ray.
+En enero de 2008, ASUS inició una importante reestructuración de sus operaciones, dividiéndose en tres empresas independientes: ASUS (centrada en computadoras de primera marca y electrónica); Pegatron (centrada en la fabricación OEM de placas base y componentes); y Unihan Corporation (centrada en la fabricación de productos no pertenecientes a PC, como cajas y molduras).[23]​[24]​ En el proceso de reestructuración, Se hizo una reestructuración al plan de pensiones altamente criticada restableciendo efectivamente los balances de las pensiones existentes. La empresa pagó todas las contribuciones hechas anteriormente por los empleados.[25]​
+El 9 de diciembre de 2008, la alianza comercial OHA anunció que Asus se había convertido en uno de los 14 nuevos miembros de la organización. Estos "nuevos miembros desplegarán dispositivos Android compatibles, aportando un código significativo al Android Open Source Project, o apoyando el ecosistema a través de productos y servicios que acelerarán la disponibilidad de dispositivos basados en Android".[26]​
+El 1 de junio de 2010, Asus se separó de Pegatron Corp.[27]​
+En octubre de 2010, Asus y Garmin anunciaron que estarían terminando su asociación de teléfonos inteligentes como resultado de que Garmin decidiera salirse de la categoría de productos.[28]​ Las dos compañías habían producido seis teléfonos inteligentes Garmin-ASUS durante los dos años previos.[28]​
+En diciembre de 2010, Asus lanzó el portátil más delgado del mundo, el ASUS U36, con un procesador Intel de voltaje estándar (no de baja tensión) Intel Core i3 o i5 con un grosor de solo 19 mm.[29]​
+En enero de 2013, Asus finalizó oficialmente la producción de su serie Eee PC debido a la disminución de las ventas causada por los consumidores cada vez más pasando a Tablet PC y Ultrabooks.[30]​[31]​
+El 30 de mayo de 2016, el presidente Jonney Shih presenta a Zenbo, el primer robot de ASUS, junto con una impresionante línea de productos móviles de tercera generación en la Computex 2016.[32]​ Zenbo es un robot que parece una tableta elíptica con ruedas. Puede hacer videollamadas, navegar en la red, leerles libros a los niños y reproducir videos y música. El Zenbo de ASUS todavía no está a la venta, pero la empresa está buscando desarrolladores que le ayuden a desarrollar software para la máquina.[2]​
+
+
+== Relaciones con Intel ==
+A principios del año 1990, los productores de tarjetas madre taiwaneses no habían establecido aún sus posiciones de liderazgo en el sector del hardware para computadora. Cualquier nuevo procesador de Intel habría sido proporcionado antes a compañías más asentadas como IBM, mientras que las compañías taiwanesas se habrían visto forzadas a esperar durante aproximadamente seis meses después de que IBM recibiera sus muestras de ingeniería (prototipos).
+Cuando el primer procesador Intel 486 se dio a conocer, los cuatro fundadores de ASUS decidieron diseñar su propia placa base 486 sin tener un procesador de muestra 486, usando solo detalles técnicos publicados por Intel y la experiencia que lograron cuando hicieron sus versiones de placas base 386. Cuando ASUS finalizó su prototipo de placa base 486, la llevaron a la sede de Intel en Taiwán para ser probada. Para su sorpresa, no fueron recibidos muy cordialmente a su llegada. Se supo que la propia placa base prototipo 486 de Intel había estado recientemente funcionando de forma incorrecta, y los ingenieros de Intel estaban todavía trabajando en una solución. Los fundadores de ASUS usaron su experiencia con el 486 y tenían su propio punto de vista referente al funcionamiento incorrecto de la placa base de Intel. Su solución funcionó, para sorpresa de los ingenieros de Intel. Intel entonces probó el prototipo de ASUS, que funcionó correctamente sin necesidad de nuevas modificaciones. Esto marcó el comienzo de una relación informal entre las dos compañías – Desde entonces, Asus recibía muestras de ingeniería de procesadores Intel antes que sus competidores.[33]​[34]​
+
+
+== Instalaciones de producción ==
+En el transcurso del año 2006, Asus ha construido instalaciones de producción en Taiwán (Taipéi, Lujhu, Nankan y Kweishan) y China continental (Suzhou), con una capacidad de producción mensual de dos millones de placas base y 150.000 ordenadores portátiles.[35]​
+
+
+== Características de tecnologías originales de ASUS ==
+ASUS introdujo un buen número de productos originales y herramientas que complementaron a sus productos encaminadas a facilitar o mejorar la experiencia de los clientes en su uso, especialmente en sus placas base. Las cuales aparecen en la tabla inferior, junto con tecnologías de terceros, registradas bajo nombres específicos propiedad de ASUS (el acrónimo AI, que sirve de prefijo a muchos nombres de estas características, procede de Artificial Intelligence en castellano Inteligencia Artificial).
+
+
+== Otros datos de interés ==
+ASUS permite con facilidad establecer Overclocking a sus placas base y resto de componentes hardware (principalmente microprocesador, Memoria RAM y tarjeta gráfica). Para competir exitosamente, otros fabricantes como DFI han buscado optimizar el rendimiento de sus productos, principalmente, para el chipset nForce4 de NVIDIA en plataformas AMD K8. Esta competencia tiene su origen desde la salida al mercado del chipset nForce 2 (igualmente de NVIDIA) en plataformas AMD K7 y se prolonga hasta la actualidad con la entrada de la nueva microarquitectura Core 2 Duo de Intel, a la espera de una ya anunciada nueva placa base de la firma DFI que compita con las existentes nForce 680i (de NVIDIA) de ASUS y otros fabricantes como EVGA, ABIT, ECS y otras ya anunciadas por MSI.
+
+
+== Galería ==
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== Véase también ==
+ Wikimedia Commons alberga una categoría multimedia sobre ASUS.
+Lista de empresas de Taiwán
+Intel Corporation
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre ASUS.
+Página oficial de ASUS

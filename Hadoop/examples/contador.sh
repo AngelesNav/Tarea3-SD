@@ -20,5 +20,11 @@ for file in carpeta2/*.txt; do
     cat $file | python mapper.py $filename >> $RESULT_FILE
 done
 
+# Ejecutar el script reducer en el archivo de resultados
+cat $RESULT_FILE | sort | python reducer.py > resultado_final.txt
+
+echo "Resultados finales guardados en resultado_final.txt"
+
+
 echo "Resultados guardados en $RESULT_FILE"
 

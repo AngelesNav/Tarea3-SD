@@ -19,10 +19,10 @@ for line in sys.stdin:
         current_count += count
     else:
         if current_word:
-            print('{}\t{}'.format(filename, current_word, current_count))
+            print('{}\t{}\t{}'.format(filename, current_word, current_count))
         current_word = word
         current_count = count
 
 # Imprimir el último grupo de palabras al final del archivo
 if current_word:
-    print('{}\t{}'.format(filename, current_word, current_count))
+    print('{}\t{}\{}'.format(filename, current_word, current_count))
